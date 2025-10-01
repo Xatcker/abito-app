@@ -4,6 +4,7 @@ import './index.css';
 import { Home } from './pages/Home';
 import { Product } from './pages/Product';
 import { Layouts } from './layouts/Layouts';
+import {PageNotFound} from './pages/PageNotFound';
 import { createBrowserRouter } from "react-router";
 import { RouterProvider } from "react-router/dom";
 
@@ -11,6 +12,7 @@ const router = createBrowserRouter([
   {
     path: "/",
     element: <Layouts />,
+    errorElement: <PageNotFound />,
     children: [
       {
         path: "/",
@@ -20,6 +22,7 @@ const router = createBrowserRouter([
         path: "/product/:id",
         element: <Product />,
       },
+      
     ],
   },
 ]);
