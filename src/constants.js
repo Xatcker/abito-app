@@ -6,7 +6,8 @@ export const cardArray = [
         price: '170 ₽',
         address: 'Казань, р-н Вахитовский',
         date: '10 июля 11:39',
-        img: '/images/card-img.png'
+        img: '/images/card-img.png',
+        description: 'Продаю не спеша самокат в хорошем состоянии.'
     },
     {
         id: 1,
@@ -14,7 +15,8 @@ export const cardArray = [
         price: '171 ₽',
         address: 'Казань, р-н Вахитовский',
         date: '10 июля 11:39',
-        img: '/images/card-img.png'
+        img: '/images/card-img.png',
+        description: 'Продаю не спеша самокат в хорошем состоянии.'
     },
     {
         id: 2,
@@ -22,7 +24,8 @@ export const cardArray = [
         price: '172 ₽',
         address: 'Казань, р-н Вахитовский',
         date: '10 июля 11:39',
-        img: '/images/card-img.png'
+        img: '/images/card-img.png',
+        description: 'Продаю не спеша самокат в хорошем состоянии.'
     }
     ,
     {
@@ -31,7 +34,8 @@ export const cardArray = [
         price: '173 ₽',
         address: 'Казань, р-н Вахитовский',
         date: '10 июля 11:39',
-        img: '/images/card-img.png'
+        img: '/images/card-img.png',
+        description: 'Продаю не спеша самокат в хорошем состоянии.'
     }
     ,
     {
@@ -40,7 +44,8 @@ export const cardArray = [
         price: '174 ₽',
         address: 'Казань, р-н Вахитовский',
         date: '10 июля 11:39',
-        img: '/images/card-img.png'
+        img: '/images/card-img.png',
+        description: 'Продаю не спеша самокат в хорошем состоянии.'
     }
     ,
     {
@@ -49,7 +54,8 @@ export const cardArray = [
         price: '175 ₽',
         address: 'Казань, р-н Вахитовский',
         date: '10 июля 11:39',
-        img: '/images/card-img.png'
+        img: '/images/card-img.png',
+        description: 'Продаю не спеша самокат в хорошем состоянии.'
     }
     ,
     {
@@ -58,6 +64,7 @@ export const cardArray = [
         price: '176 ₽',
         address: 'Казань, р-н Вахитовский',
         date: '10 июля 11:39',
-        img: '/images/card-img.png'
+        img: '/images/card-img.png',
+        description: 'Продаю не спеша самокат в хорошем состоянии.'
     }
 ];
